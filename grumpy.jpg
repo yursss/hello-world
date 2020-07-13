@@ -1,0 +1,1484 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<base href="https://technolex.com/" />
+
+	<title>Обзор Smartcat</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Развитие технологий дарит нам все большую степень свободы." />
+	<meta name="keywords" content="Из канала связи Интернет стал средой для хранения и обработки информации, а увеличение пропускной способности сетей, совершенствование оборудования и технологии виртуализации сделали возможным широкий доступ к облачным вычислениям." />
+	<meta name="comodo_si_verification" content="2917836" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="favicon.ico" />
+	<link rel="shortcut icon" href="favicon.ico" />
+
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://technolex.com/ru/articles/smartcat-survey.html" />
+	<meta property="og:title" content="Обзор Smartcat"/>
+	<meta property="og:description" content="Развитие технологий дарит нам все большую степень свободы." />
+	<meta property="og:image" content="https://technolex.com/assets/images/new/newsandarticles/SmartCat_1.jpg" />
+	
+	<meta name="twitter:title" content="Обзор Smartcat" />
+	<meta name="twitter:description" content="Развитие технологий дарит нам все большую степень свободы."/>
+	<meta name="twitter:image:src" content="https://technolex.com/assets/images/new/newsandarticles/SmartCat_1.jpg"/>
+	<meta name="twitter:domain" content="https://technolex.com/"/>
+
+	<meta itemprop="name" content="Обзор Smartcat"/>
+	<meta itemprop="description" content="Развитие технологий дарит нам все большую степень свободы."/>
+	<meta itemprop="image" content="https://technolex.com/assets/images/new/newsandarticles/SmartCat_1.jpg" />
+	<meta name="google-site-verification" content="9_FmFT9Q5ylp9XiN6IroqlLK_s-UXJjerZNMfHfkiPE" />
+	<meta name="yandex-verification" content="b336f2500da1fabf" />
+	
+	<link rel="alternate" hreflang="uk" href="https://technolex.com/uk/articles/smartcat-survey.html" />
+<link rel="alternate" hreflang="en-GB" href="https://technolex.com/en/articles/smartcat-survey.html" />
+<link rel="alternate" hreflang="ru" href="https://technolex.com/ru/articles/smartcat-survey.html" />
+<link rel="alternate" hreflang="en-us" href="https://technolex.com/articles/smartcat-survey.html" />
+<link rel="alternate" hreflang="x-default" href="https://technolex.com/articles/smartcat-survey.html" />
+	
+	<!-- Bootstrap -->
+	<link href="/assets/templates/template/css/bootstrap2.min.css" rel="stylesheet">
+	<style>.nav>li>a {padding: 10px 12px;}</style>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<link rel="stylesheet" href="/assets/templates/template/css/screen.css?new=2" />
+	<link rel="stylesheet" href="/assets/templates/template/css/style.css?new=3" />
+	<link rel="stylesheet" href="/assets/templates/template/css/jquery.bxslider.css?new=1" />
+	<script type="application/ld+json">
+  [
+	{
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://technolex.com/",
+      "logo": "https://technolex.com/assets/templates/template/img/logo.svg",
+	  "contactPoint" : [
+		{ "@type" : "ContactPoint",
+		  "telephone" : "+38-044-223-4093",
+		  "contactType" : "customer service"
+		} ],
+		"name" : "Technolex translation studio",
+		"sameAs" : [ "https://www.facebook.com/TechnolexTranslationStudio",
+		"https://twitter.com/Technolex_TTS",
+		"https://plus.google.com/+TechnolextranslationsStudio"]
+    }
+  ]
+</script>
+	
+	<script src="/assets/templates/template/js/jquery-1.11.1.min.js"></script>	
+	<script src="/assets/templates/template/js/jquery.bxslider.min.js"></script>	
+	
+	<script src="/assets/templates/template/js/parallax.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="/assets/templates/template/js/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="/assets/templates/template/js/slick/slick-theme.css">
+	<link rel="stylesheet" href="/assets/templates/template/css/colorbox.css" />
+	
+	
+		<!--<script src="//vk.com/js/api/openapi.js?105"></script>-->
+		<script src="/assets/templates/template/js/vk-api.js"></script>
+		<script type="text/javascript">
+  VK.init({
+    apiId: 4824038,
+    onlyWidgets: true
+  });
+</script>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId=1382143135439144&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	
+
+	
+	
+	<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-61226451-1', 'auto');
+  ga('send', 'pageview');
+</script>
+	
+	
+	
+	
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVKR9B6');</script>
+<!-- End Google Tag Manager -->
+	
+</head>
+<body>
+	
+
+
+
+
+<!-- Шапка -->
+<div class="header_top">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="langs">
+		
+	<a href="https://technolex.com/uk/articles/smartcat-survey.html" class=" text_line" data-lang="uk">UK</a>
+	
+	<a href="https://technolex.com/en/articles/smartcat-survey.html" class=" text_line" data-lang="en">EN</a>
+	
+	<a href="https://technolex.com/ru/articles/smartcat-survey.html" class="active text_line" data-lang="ru">RU</a>
+	
+		
+</div>
+				<div class="social_buttons_teh">
+					<div class="social">
+						<li><p>Мы в сети</p></li>
+						<!--<li><a target="_blank" href="https://plus.google.com/+TechnolextranslationsStudio"><i class="icon-icons-13"></i></a></li> -->
+						<li><a target="_blank" href="https://www.facebook.com/TechnolexTranslationStudio"><i class="icon-icons-14"></i></a></li>
+						<li><a target="_blank" href="https://twitter.com/Technolex_TTS"><i class="icon-icons-15"></i></a></li>
+						<li><a target="_blank" href="https://www.youtube.com/channel/UCFV53hkP6OP__-mpaUQb23g"><i class="icon-soc-icons-youtube"></i></a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/company/technolex-translation-studio"><i class="icon-soc-icons-linkedin"></i></a></li>
+						<li><a target="_blank" rel="nofollow" href="http://www.proz.com/profile/1240946"><i class="icon-soc-icons-proz"></i></a></li>
+						<li><a rel="nofollow" href="https://technolex.com/ru/news.html#subscribe_block" title="Подпишитесь на рассылку">
+<svg version="1.1" id="mail_subscribe" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17.839 13.982" width="18" height="14" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#49494B;}
+	#mail_subscribe{position:relative; top:2px}
+	#mail_subscribe:hover .st0 {fill:#F6736C}
+</style>
+<g id="XMLID_3_">
+	<path id="XMLID_4_" class="st0" d="M17.419,1.895v10.352c0,0.419-0.148,0.777-0.447,1.075c-0.298,0.298-0.656,0.447-1.075,0.447
+		H1.891c-0.419,0-0.777-0.149-1.075-0.447c-0.298-0.298-0.447-0.656-0.447-1.075V1.895c0-0.419,0.149-0.777,0.447-1.076
+		c0.298-0.298,0.656-0.447,1.075-0.447h14.006c0.419,0,0.777,0.149,1.075,0.447C17.271,1.117,17.419,1.476,17.419,1.895z
+		 M16.201,2.247c0-0.013,0-0.048,0-0.105s0-0.1,0-0.128c0-0.028-0.001-0.07-0.005-0.124c-0.003-0.054-0.013-0.094-0.028-0.119
+		s-0.033-0.054-0.052-0.085c-0.02-0.032-0.048-0.056-0.086-0.071c-0.038-0.016-0.083-0.024-0.134-0.024H1.891
+		c-0.083,0-0.154,0.03-0.214,0.09C1.616,1.741,1.586,1.812,1.586,1.895c0,1.065,0.467,1.966,1.398,2.702
+		c1.225,0.964,2.496,1.97,3.816,3.016c0.038,0.032,0.148,0.125,0.333,0.281c0.184,0.156,0.329,0.274,0.438,0.357
+		c0.107,0.083,0.249,0.182,0.423,0.3c0.175,0.117,0.335,0.205,0.48,0.262c0.146,0.057,0.282,0.085,0.409,0.085h0.01h0.01
+		c0.127,0,0.263-0.028,0.409-0.085c0.146-0.057,0.306-0.145,0.48-0.262c0.175-0.118,0.315-0.217,0.424-0.3
+		c0.107-0.083,0.253-0.201,0.438-0.357c0.184-0.155,0.295-0.249,0.333-0.281c1.319-1.046,2.591-2.052,3.815-3.016
+		c0.343-0.273,0.661-0.639,0.956-1.099C16.054,3.038,16.201,2.621,16.201,2.247z M16.201,12.247V4.939
+		c-0.203,0.229-0.422,0.438-0.656,0.628c-1.7,1.307-3.052,2.378-4.054,3.216c-0.323,0.273-0.587,0.485-0.79,0.638
+		s-0.477,0.306-0.822,0.461s-0.671,0.233-0.976,0.233h-0.01h-0.01c-0.304,0-0.629-0.078-0.975-0.233
+		c-0.346-0.155-0.62-0.309-0.823-0.461s-0.467-0.365-0.79-0.638C5.294,7.946,3.943,6.874,2.242,5.567
+		c-0.234-0.19-0.453-0.4-0.656-0.628v7.308c0,0.083,0.03,0.154,0.091,0.214c0.06,0.06,0.131,0.09,0.214,0.09h14.006
+		c0.083,0,0.154-0.03,0.215-0.09C16.171,12.401,16.201,12.329,16.201,12.247z"/>
+</g>
+</svg>
+</a></li>
+					</div>
+					<div class="buttons_teh">
+						<div class="button_teh ask_question" style="display: none;">
+							<div class="separator"></div>
+							<a href="#" onclick="jivo_api.open();return false">Задать вопрос</a>
+						</div>
+						<div class="button_teh contacts">
+							<div class="separator"></div>
+							<a href="https://technolex.com/ru/contacts.html">Контакты</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="https://technolex.com/ru/"><img src="/assets/templates/template/img/logo.svg" alt="logo"></a>
+		</div>
+		<div class="navbar-collapse" id="bs-navbar-collapse-menu">
+			<div class="mobile_menu_button">
+				<div class="ico">
+					<span class="one"></span>
+					<span class="two"></span>
+					<span class="three"></span>
+				</div>
+				<span>Меню сайта</span>
+			</div>
+			
+			<ul class="menu nav navbar-nav"><li>
+	
+	<a href="https://technolex.com/ru/company.html">Компания</a>
+	
+</li>
+<li>
+	
+	<a href="https://technolex.com/ru/Careers.html">Карьера</a>
+	
+</li>
+<li class="dropdown">
+	
+	<a class="noclick" href="https://technolex.com/ru/blog1.html">Блог<span class="caret tab_disp_none"></span></a><a class="desk_disp_none open_button" href="#"><span class="caret"></span></a><ul class="dropdown-menu"><li>
+	
+		<a href="https://technolex.com/ru/articles.html" data-id="510">Статьи</a>
+		
+	
+</li>
+<li>
+	
+		<a href="https://technolex.com/ru/tips.html" data-id="511">Советы</a>
+		
+	
+</li>
+<li>
+	
+		<a href="https://technolex.com/ru/news.html" data-id="512">Новости</a>
+		
+	
+</li>
+</ul>
+	
+</li>
+</ul>
+
+			<ul class="nav navbar-nav navbar-right header_phone">
+				<li><a class="ringo_phone" href="tel:+38 044 501 32 83">+38 044 501 32 83</a></li>
+				<li><a class="btn btn-default red-btn hvr-sweep-to-right-red" href="https://technolex.com/ru/order.html" role="button">ЗАКАЗАТЬ<div class="red-btn-lb"></div><div class="red-btn-rb"></div></a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</nav>
+<div class="visible-lg visible-lg-1" style="position:absolute; left:15px; top:150px; width: 67px; height: 40px; z-index: 999;">
+	<a href="http://www.elia-association.org/" target="_blank" rel="nofollow">
+		<img class="lazy" src="/assets/templates/template/img/elia.png" style="width:110px"/>
+	</a>
+</div>
+<div class="visible-lg visible-lg-1" style="position:absolute; left:15px; top:350px; width: 67px; height: 40px; z-index: 999;">
+	<a href="https://www.gala-global.org/" target="_blank" rel="nofollow">
+		<img class="lazy" src="/assets/templates/template/img/gala-logo.png" style="width:110px"/>
+	</a>
+</div>
+<div class="visible-lg visible-lg-2" style="position:absolute; left:15px; top:230px; width: 67px; height: 101px; z-index: 999;">
+	<a href="https://translationrating.ru/results2018ukraine/" target="_blank" rel="nofollow">
+		<img class="lazy" data-original="/assets/templates/template/img/emblems-logo.png" style="width:100px">
+	</a>
+</div>
+<div class="visible-lg visible-lg-3" style="position:absolute; left:15px; top:300px; width: 67px; height: 101px; z-index: 999;">
+	<a href="http://www.across.net/" target="_blank" rel="nofollow">
+		<img class="lazy" data-original="/assets/templates/template/img/across.png" style="width:100px">
+	</a>
+</div>
+<!-- Конец Шапка @FILE:assets/modules/yams/tpl/wayfinder/docr/parentrow.tpl-->
+	<!-- Статья -->
+	<div class="post">
+		<div class="container">
+			<div class="black-line"></div>
+			<ol class="breadcrumb">
+				<li><a href="https://technolex.com/ru/">Главная</a></li>
+				<li><a href="https://technolex.com/ru/articles.html">Блог</a></li>				
+			</ol>	
+			<div class="row max-width">
+				<div>
+					<h1>Обзор Smartcat</h1>
+					<span class="post-date">06.03.2018</span>
+					<div class="share social">
+						<ul>
+							<li><p>Поделиться ссылкой</p></li>		
+							<!--<li><a rel="publisher" href="https://plus.google.com/share?url=https://technolex.com/articles/smartcat-survey.html&hl=ru" class="popup-window"><i class="icon-icons-13"></i></a></li> --> 
+							<li><a href="http://www.facebook.com/sharer.php?u=https://technolex.com/ru/articles/smartcat-survey.html" class="popup-window"><i class="icon-icons-14"></i></a></li>
+							<li><a href="http://twitter.com/share?url=https://technolex.com/articles/smartcat-survey.html" class="popup-window"><i class="icon-icons-15"></i></a> 
+</li>
+							<li><a href="http://www.linkedin.com/shareArticle?mini=true&ro=false&url=https://technolex.com/ru/articles/smartcat-survey.html" class="popup-window"><i class="icon-soc-icons-linkedin"></i></a> 
+</li>
+						</ul>
+					</div>
+					<span class="copy-tool" data-toggle="tooltip" data-placement="bottom" title="Любые материалы, опубликованные на этом сайте, являются интеллектуальной собственностью компании Technolex Translation Studio. При любом их использовании, в том числе полном или частичном копировании, адаптации или цитировании, распространении в социальных сетях и т. д. ссылка на страницу с оригиналом статьи на этом сайте обязательна.">
+						© Все права защищены.
+					</span>
+					<br>
+					<p><!--[if gte mso 9]>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG></o:AllowPNG>
+ </o:OfficeDocumentSettings>
+<![endif]--></p>
+<p style="text-indent: 0cm;">Развитие технологий дарит нам все большую степень свободы.</p>
+<p style="text-indent: 0cm;">Из канала связи Интернет стал средой для хранения и обработки информации, а увеличение пропускной способности сетей, совершенствование оборудования и технологии виртуализации сделали возможным широкий доступ к облачным вычислениям.</p>
+<p style="text-indent: 0cm;">&laquo;Облако&raquo; позволяет не только получать доступ к данным из любой точки мира, но и обрабатывать их. Одна из самых распространенных облачных услуг&nbsp;&mdash; это SaaS (<i>software as a service</i>&nbsp;&mdash; ПО как услуга), решение, позволяющее открывать программу в браузере, не устанавливая ее на собственный компьютер и не нагружая его ресурсы.</p>
+<p style="text-indent: 0cm;">Идущие в ногу со временем разработчики программ автоматизации перевода (CAT-инструментов) не обделили своим вниманием такие новые возможности, ведь они крайне интересны для всех сторон в индустрии переводов. И для заказчиков услуг и переводческих компаний (это отличный инструмент для организации и синхронизации совместной работы многих переводчиков), и для переводчиков, в частности фрилансеров (для работы нужно лишь устройство с дисплеем подходящего размера и клавиатурой, подключение к Интернету и собственные знания).</p>
+<p style="text-indent: 0cm;">Сначала появились серверные решения, которые сделали возможной одновременную совместную работу, обеспечивая доступ к памяти переводов и глоссариям, хранящимся в облаке, и синхронизацию проектов, а затем и полностью облачные системы, вообще не требующие установки клиента программы. Самые известные из них&nbsp;&mdash; <i style="mso-bidi-font-style: normal;">Google Translator Toolkit</i> (<i>GTT</i>), <i>Wordfast Anywhere</i> (SaaS-вариант <i>Wordfast</i>), <i>MateCat, Memsource, <i>Smartcat</i></i>.</p>
+<p style="text-indent: 0cm;">Рассмотрим в качестве примера сравнительно молодую, но мощную систему&nbsp;&mdash; <i>Smartcat</i>.</p>
+<h2>&laquo;Умная &ldquo;кошка&rdquo;&raquo;</h2>
+<p style="text-indent: 0cm;">Платформа <i>Smartcat</i>&nbsp;&mdash;это не только CAT-инструмент, но и биржа переводчиков, позволяющая фрилансерам найти заказы, а компаниям&nbsp;&mdash; переводчиков, а также система управления проектами и ряд возможностей для организации платежей.</p>
+<p style="text-indent: 0cm;">Разработчики программы&nbsp;&mdash; фанаты своего дела и активно внедряют новые функции. Новые релизы выходят довольно часто. Самый свежий билд (помимо номера, они имеют еще и &laquo;географические&raquo; названия)&nbsp;&mdash; №&nbsp;65 &laquo;Сингапур&raquo;. Основные изменения последних версий&nbsp;&mdash; ускорение загрузки страниц, возможность подключать <i>Яндекс.Переводчик</i>, поддержка новых языков (среди поддерживаемых языков есть и очень редкие), добавление новых API-методов для управления проектами. В последнем релизе добавлена возможность скачивать файлы в формате XLIFF.</p>
+<p style="text-indent: 0cm;"></p>
+<p style="text-indent: 0cm;">Изучим внимательнее собственно CAT-часть платформы.</p>
+<p style="text-indent: 0cm;">Интерфейс системы интуитивно понятен любому, кто когда-либо работал с CAT-инструментами: привычная &laquo;таблица&raquo; оригинального текста и перевода, окно совпадений с памятью переводов (TM) и глоссарием. Отдельное окно выделено для поиска в памяти, глоссариях и словарях, а еще одно окно в нижней части экрана (впрочем, не обязательно в нижней, так как есть три варианта компоновки экрана на выбор) предназначено для результатов проверки качества, истории изменений сегмента и комментариев.</p>
+<p style="text-indent: 0cm;"><i>Smartcat</i>&nbsp;&mdash; полнофункциональная программа, поддерживающая разнообразные форматы документов, работу с памятью переводов и глоссариями (как создаваемыми в процессе работы в системе, так и импортированными), она без проблем обрабатывает теги и плейсхолдеры (заполнители). Кроме того, к системе подключены словари <i>Lingvo</i> и есть возможность использовать различные движки машинного перевода. Как и в других &laquo;кошках&raquo;, в <i>Smartcat</i>&nbsp;предусмотрена проверка качества, которую можно настроить в соответствии со своими потребностями.</p>
+<p style="text-indent: 0cm;">Экспортировать из системы можно оригинал загруженного документа, перевод в том же формате (за исключением графических и PDF-файлов, которые экспортируются в формате docx), а также двуязычные файлы DOCX с таблицей сопоставления оригинала и перевода, файлы TMX и XLIFF. Кроме того, при загрузке пакетов <i style="mso-bidi-font-style: normal;">Trados</i> <i>Studio</i> можно скачать пакет для возврата.</p>
+<p style="text-indent: 0cm;">И раз уж речь зашла об экспорте из системы, рассмотрим подробнее, что же можно туда загрузить для работы. Для этого мы провели ряд небольших экспериментов.</p>
+<h2>Работа с файлами различных типов</h2>
+<p style="text-indent: 0cm;">Попробуем импортировать в <i>Smartcat</i>&nbsp;файлы различных типов и посмотрим, как система с ними справляется в &laquo;боевых&raquo; условиях.</p>
+<p style="text-indent: 0cm;">Сначала классическая проверка&nbsp;&mdash; файлы программ <i>Microsoft Office</i>.</p>
+<p>Microsoft Office</p>
+<p>&mdash;&nbsp; <i>Word</i>: <b style="mso-bidi-font-weight: normal;">DOCX</b>, <b>DOC</b>, <b>RTF</b>&nbsp;&mdash; да</p>
+<p>&mdash;&nbsp; <i>Excel</i>: <b style="mso-bidi-font-weight: normal;">XLSX</b>, <b>XLS</b>&nbsp;&mdash; да</p>
+<p>&mdash;&nbsp; <i>PowerPoint</i>: <b style="mso-bidi-font-weight: normal;">PPTX</b>, <b>PPT</b>&nbsp;&mdash; да</p>
+<p style="text-indent: 0cm;">Все файлы <i>Microsoft Office</i>&nbsp;&mdash; и старого (DOC, XLS, PPT), и нового (DOCX, XLSX, PPTX) форматов&nbsp;&mdash; прошли &laquo;на ура&raquo;.</p>
+<p style="text-indent: 0cm;">Теперь проверяем, как <i>Smartcat</i>&nbsp;относится к другим популярным программам автоматизации перевода&nbsp;&mdash; в том числе <i>memoQ</i>, <i style="mso-bidi-font-style: normal;">Wordfast</i> и <i>Trados&nbsp;&mdash;</i> и умеет ли работать с их файлами.</p>
+<p>Другие CAT-инструменты</p>
+<p>&mdash;&nbsp; <i>memoQ</i>: <b style="mso-bidi-font-weight: normal;">MQXLIFF</b>&nbsp;&mdash; да, <b>MQXLZ&nbsp;</b>&mdash; нет</p>
+<p>&mdash;&nbsp; <i>Wordfast</i>: <b style="mso-bidi-font-weight: normal;">TXML</b>, <b>TXLF</b>&nbsp;&mdash; нет</p>
+<p>&mdash;&nbsp; <i>Trados</i>: <b style="mso-bidi-font-weight: normal;">TTX</b>, <b>SDLXLIFF, SDLPPX</b>&nbsp;&mdash; да</p>
+<p>&mdash;&nbsp; <i>SDLX</i>: <b style="mso-bidi-font-weight: normal;">ITD</b>&nbsp;&mdash; нет<b></b></p>
+<p>&mdash;&nbsp; <i>Passolo</i>: <b style="mso-bidi-font-weight: normal;">TBULIC</b>&nbsp;&mdash; нет</p>
+<p>&mdash;&nbsp; <i>Transit</i>: <b style="mso-bidi-font-weight: normal;">TPF</b>, <b>PPF</b>&nbsp;&mdash; нет</p>
+<p style="text-indent: 0cm;">Таким образом, <i>Smartcat</i>&nbsp;дружит не со всеми &laquo;кошками&raquo; (будем надеяться, пока) и умеет импортировать только файлы <i>Trados</i> и <i style="mso-bidi-font-style: normal;">memoQ</i>. Устаревший формат <i>SDLX</i> ITD программа не распознает, не работает с файлами <i style="mso-bidi-font-style: normal;">SDL Passolo</i>, но зато умеет напрямую импортировать пакеты <i>Trados Studio</i>, сразу со всей &laquo;начинкой&raquo;&nbsp;&mdash; памятью переводов и термбазами. Заметим, что в один проект <i>Smartcat</i>&nbsp;нельзя добавить одновременно и пакет <i>Trados Studio</i>, и SDLXLIFF-файлы&nbsp;&mdash; нужно создавать два разных проекта.</p>
+<p style="text-indent: 0cm;">Неумение работать с занесенным в Красную книгу форматом ITD и крайне специфическим TBULIC можно простить. Но вот поддержку формата <i style="mso-bidi-font-style: normal;">Wordfast</i> хорошо бы реализовать.</p>
+<p>Графические файлы</p>
+<p style="text-indent: 0cm;">Теперь проверяем, как <i>Smartcat</i>&nbsp;действует в случаях, когда текст представлен в виде графики. Прежде чем приступать к переводу, текст нужно извлечь из графического файла. Если загрузить в <i>Smartcat</i>&nbsp;графический файл, например в формате JPG, он его принимает, но сообщает, что предварительно требуется выполнить распознавание (OCR&nbsp;&mdash; optical character recognition), а это отдельная платная услуга, и предлагает пополнить баланс.</p>
+<p style="text-indent: 0cm;">Количество форматов графических файлов, с которыми работает <i>Smartcat</i>, впечатляет: <b>PDF</b>, <b>JPG</b>, <b style="mso-bidi-font-weight: normal;">JPEG</b>, <b>TIF</b>, <b>TIFF</b>, <b style="mso-bidi-font-weight: normal;">BMP</b>, <b>PNG</b>, <b>GIF</b>, <b style="mso-bidi-font-weight: normal;">CX</b>, <b>PCX</b>, <b>JP2</b>, <b style="mso-bidi-font-weight: normal;">JPC</b>, <b>JFIF</b>, <b>JB2</b>. Графическими также считаются <b>DJVU</b> и <b style="mso-bidi-font-weight: normal;">DJV</b>.</p>
+<p>PDF</p>
+<p style="text-indent: 0cm;">Локализация PDF-файлов&nbsp;&mdash; традиционная головная боль для переводческих бюро.</p>
+<p style="text-indent: 0cm;">С точки зрения обработки текста PDF-файлы бывают двух типов: содержащие собственно текст и содержащие графические элементы, на которых есть текст. Методы обработки последних мало чем отличаются от используемых для обычных графических файлов JPG или PNG, и&nbsp;<i>Smartcat</i>&nbsp;поступает с ними так же&nbsp;&mdash; предлагает выполнить платное распознавание.</p>
+<p>Другие форматы</p>
+<p style="text-indent: 0cm;">К плюсам <i>Smartcat</i>&nbsp;следует отнести умение работать еще с двумя форматами <i>Adobe</i> (помимо PDF)&nbsp;&mdash; IDML и INX (оба <i>InDesign</i>).</p>
+<p style="text-indent: 0cm;">Кроме того, поддерживаются файлы локализации в форматах PO, JSON, PHP и XML.</p>
+<p style="text-indent: 0cm;">Из этого мы делаем вывод: с файлами основных форматов у <i>Smartcat</i>&nbsp;проблем нет.</p>
+<h2>Лингвистические ресурсы</h2>
+<p style="text-indent: 0cm;">Как и любая CAT-программа, <i>Smartcat</i>&nbsp;поддерживает работу с памятью переводов и терминологическими базами (глоссариями). Но этим список вспомогательных ресурсов не исчерпывается.</p>
+<p>Память переводов</p>
+<p style="text-indent: 0cm;">При создании проекта (если речь не идет о загрузке пакета <i style="mso-bidi-font-style: normal;">Trados Studio</i> с уже включенной памятью) система автоматически создает для него память переводов, но также ее можно импортировать. <i>Smartcat</i>&nbsp;поддерживает ТМ двух форматов&nbsp;&mdash; &laquo;общенародный&raquo; TMX и SDL&rsquo;евский SDLTM.</p>
+<p style="text-indent: 0cm;">Результаты тестового импорта TM в целом положительные. Множество разных &laquo;памятей&raquo; в обоих форматах, в том числе довольно крупную SDLTM-память, система <i>Smartcat</i>&nbsp;уверенно &laquo;заглотила&raquo;, но споткнулась на сравнительно небольшом TMX-файле.</p>
+<p style="text-indent: 0cm;">Справедливости ради нужно сказать, что этот файл TMX был специально созданной &laquo;сборной солянкой&raquo; из нескольких разных проектов, выполнявшихся в разных CAT-инструментах, и, соответственно, содержал сегменты и теги всевозможных типов и форматов. Программа <i>memoQ</i> этот TMX-файл &laquo;взяла&raquo;, а <i>Trados Studio</i>&nbsp;&mdash; не одолела.</p>
+<p>Глоссарии</p>
+<p style="text-indent: 0cm;">Глоссарии (термбазы) можно создавать в рамках проекта и без труда пополнять в процессе работы. Кроме того, можно импортировать термины из существующих глоссариев и экспортировать термбазы в формате XLSX.</p>
+<p style="text-indent: 0cm;">Созданные глоссарии затем можно использовать в других своих проектах.</p>
+<p>Машинный перевод</p>
+<p style="text-indent: 0cm;"><i>Smartcat</i>&nbsp;предоставляет возможность использовать машинный перевод (МТ). Бесплатно можно подключить <i>Microsoft Translator</i> и <i>Яндекс.Переводчик</i>, а за дополнительную плату&nbsp;&mdash; машинный перевод от <i style="mso-bidi-font-style: normal;">Google</i> и адаптивный перевод <i>Lilt</i>.</p>
+<p>Словари</p>
+<p style="text-indent: 0cm;">К системе подключен базовый пакет словарей&nbsp;<i>ABBYY Lingvo</i>, и поиск в них можно выполнять прямо с экрана перевода.</p>
+<p style="text-indent: 0cm;">Но следует учесть, что если язык в проекте определен, например, как &laquo;Английский (США)&raquo; или &laquo;Английский (Соединенное Королевство)&raquo;, то словарь не распознает его как английский и воспользоваться им получится, только щелкнув ссылку &laquo;Открыть в новой вкладке&raquo; и выбрав на открывшейся странице язык &laquo;Английский&raquo; без каких-либо географических дополнений.</p>
+<h2>Другие возможности</h2>
+<p style="text-indent: 0cm;">В <i>Smartcat</i>&nbsp;предусмотрена проверка качества, которую можно настроить в соответствии со своими предпочтениями. Кроме того, проверка терминологии учитывает словоизменение. Это значительно сокращает количество раздражающих ложноположительных результатов и позволяет уделить больше внимания тому, что действительно может оказаться ошибкой.</p>
+<p style="text-indent: 0cm;">В случае локализации программного обеспечения будет очень полезна возможность добавлять к сегментам скриншоты.</p>
+<p style="text-indent: 0cm;">В системе <i>Smartcat</i>&nbsp;реализована функция чата. Переводчики, редакторы и менеджеры, работающие над проектом, могут оперативно обсуждать текущие вопросы. Сообщения отображаются в окне комментариев.</p>
+<p style="text-indent: 0cm;">Очень интересная функция <i>Smartcat</i>&nbsp;&mdash; чат-бот <i>Telegram</i>. С его помощью менеджер может получать информацию о том, на каком этапе находится работа над проектом, и оперативно связываться с переводчиками (сообщения, отправленные из <i>Telegram</i>, мгновенно отображаются в чате <i>Smartcat</i>). Для менеджера проектов такая функция&nbsp;&mdash; просто находка.</p>
+<h2>Облачная система</h2>
+<p style="text-indent: 0cm;">Облачные технологии имеют как преимущества, так и недостатки.</p>
+<p style="text-indent: 0cm;">К достоинствам можно отнести доступность и независимость от оборудования и операционной системы, возможности совместной работы, а также надежность (данные обычно хранятся на нескольких серверах, физически расположенных в разных странах, и постоянно выполняется их резервное копирование).</p>
+<p style="text-indent: 0cm;">Обеспокоенность обычно вызывают вопросы безопасности и конфиденциальности.</p>
+<p style="text-indent: 0cm;">Хотя облако само по себе является достаточно надежной и защищенной системой, при проникновении в него злоумышленник получит доступ сразу к огромному количеству данных.</p>
+<p style="text-indent: 0cm;">Что же касается конфиденциальности, то, к сожалению, на данный момент не существует технологии, которая обеспечивала бы 100%-ную гарантию конфиденциальности хранимых в облаке данных. Разработчики&nbsp;<i>Smartcat</i>&nbsp;прилагают все усилия, чтобы защитить данные от несанкционированного доступа.</p>
+<p>&mdash;&nbsp; Все учетные записи в системе изолированы друг от друга, и передача данных между ними возможна, только если дано явное разрешение на это.</p>
+<p>&mdash;&nbsp; Передаваемые данные зашифрованы, и даже сотрудники <i>Smartcat</i>&nbsp;не имеют к ним доступа.</p>
+<p>&mdash;&nbsp; Гибкое разграничение прав доступа позволяет контролировать уровни доступа сотрудников к данным&nbsp;&mdash; вплоть до отдельного документа или переводческого ресурса.</p>
+<p style="text-indent: 0cm;">Если характер вашей работы или требования заказчика таковы, что исключают возможность использования общедоступной облачной системы, <i>Smartcat</i>&nbsp;может предложить установить систему на локальном сервере или в частном облаке, которые будете контролировать только вы. Это, естественно, дополнительно оплачиваемая услуга.</p>
+<h2>Подведем итоги</h2>
+<p style="text-indent: 0cm;">Все изложенное ниже&nbsp;&mdash; субъективное мнение. Оно и не может быть иным, т.&nbsp;к. в разных бюро и у разных переводчиков требования к системе для перевода различны. Поскольку система непрерывно развивается, эта информация актуальна только на данный момент. По мере появления новых версий плюсы и минусы исчезают, добавляются, переходят друг в друга и т.&nbsp;д.</p>
+<p>Плюсы&nbsp;<i>Smartcat</i></p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Использование системы бесплатно, если речь не идет о частном облаке или установке на локальном сервере. Кроме того, платными являются дополнительные услуги: некоторые варианты машинного перевода и распознавание текста.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Благодаря облачности возможность использования не зависит от операционной системы, которой пользуется переводчик. Ни у <i>memoQ</i>, ни у <i style="mso-bidi-font-style: normal;">Trados Studio</i>, ни у <i>Wordfast</i>&nbsp;&mdash; у грандов мира локализации&nbsp;&mdash; нет версий для <i style="mso-bidi-font-style: normal;">Linux</i> и <i>MacOS</i> (у <i>Wordfast</i>, правда, есть <i>Wordfast Anywhere</i>&nbsp;&mdash; тоже облачная система, конкурент <i>Smartcat</i>). Технически возможно даже использование на смартфоне или планшете (его ОС тоже не важна&nbsp;&mdash; это может быть как <i>iOS</i>, так и <i>Android</i>). Правда, это будет не очень удобно в силу небольшого размера экрана.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; <i>Smartcat</i>&nbsp;&mdash; полнофункциональный CAT-инструмент, сопоставимый по возможностям с популярными CAT-программами для ПК. Обычно онлайн-инструменты этим похвастаться не могут.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Работать над проектом может неограниченное количество переводчиков и редакторов.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Можно выполнять переводы, предоставляемые в пакетах <i>Trados Studio</i>, не имея <i>Trados Studio</i> и не платя за покупку этой программы.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; В системе реализовано удобное управление проектами. Менеджер видит, какой переводчик на каком этапе находится. Оперативные вопросы обсуждаются в чате непосредственно в системе. Расчет платежей переводчикам осуществляется автоматически.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; <i>Smartcat</i>&nbsp;интегрирован с системой учета переводческих проектов <a href="https://protemos.com/"><i>Protemos</i></a>. Управление предельно простое: если вы создали проект в <i>Protemos</i>, то соответствующий ему проект в <i>Smartcat</i>&nbsp;создается буквально одним нажатием кнопки. Подробнее об этом см. <a href="https://wiki.protemos.com/wiki/SmartCAT_integration">здесь</a>.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Возможен импорт и экспорт памяти переводов. Эта функция пригодится тем, кто хотел бы использовать свои наработки. Многие заказчики просят вместе с переводом присылать также и память переводов.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; У менеджеров есть возможность быстро найти переводчика-исполнителя, даже для редких языковых пар. Кроме того, снижена нагрузка на менеджеров проектов: им не приходится заниматься расчетом выплат.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Список поддерживаемых языков огромен и постоянно растет.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; У системы отзывчивая и доброжелательная поддержка.</p>
+<p>Минусы&nbsp;<i>Smartcat</i></p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; &laquo;Облачность&raquo; системы&nbsp;&mdash; это как плюс, так и минус. Как уже упоминалось выше, безопасность/небезопасность облачных систем (любых) обусловлена спецификой технологии.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Обратная сторона функциональности&nbsp;&mdash; усложнение интерфейса. Чтобы максимально эффективно использовать все возможности системы, придется &laquo;покопаться&raquo; в справке и самой программе.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Нет возможности открыть несколько файлов сразу, чтобы воспользоваться функцией автоматического распространения перевода, когда есть много повторяющихся сегментов в разных файлах.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Нет возможности отобразить текст тегов и пробелы.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Не реализованы массовые замены. Если в проекте много файлов, и во всех них нужно заменить одно слово на другое (например, везде заменить &laquo;Bluetooth&raquo; на &laquo;USB&raquo;), сделать это одной заменой не получится&nbsp;&mdash; придется поочередно открывать каждый файл и выполнять замену внутри него. Сколько файлов, столько будет замен.</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; В операциях замены отсутствует поддержка регулярных выражений (RegEx).</p>
+<p style="text-indent: -14.2pt;">&mdash;&nbsp; Не реализованы операции с несколькими сегментами сразу. Например, нельзя сразу в 10 сегментах скопировать исходный текст в перевод или подтвердить сразу 10 сегментов.</p>
+<p style="text-indent: 0cm;"><i>Smartcat</i>&nbsp;&mdash; это действительно удобный и функциональный бесплатный CAT-инструмент, который обладает рядом дополнительных возможностей, упрощающих управление проектами перевода и совместную работу. Надеемся, по мере развития системы недостатков будет становиться меньше, а плюсов&nbsp;&mdash; больше.</p>
+<p style="text-indent: 0cm;"><i>&nbsp;</i></p>
+<p><!--[if gte mso 9]>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves></w:TrackMoves>
+  <w:TrackFormatting></w:TrackFormatting>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning></w:PunctuationKerning>
+  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF></w:DoNotPromoteQF>
+  <w:LidThemeOther>UK</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables></w:BreakWrappedTables>
+   <w:SnapToGridInCell></w:SnapToGridInCell>
+   <w:WrapTextWithPunct></w:WrapTextWithPunct>
+   <w:UseAsianBreakRules></w:UseAsianBreakRules>
+   <w:DontGrowAutofit></w:DontGrowAutofit>
+   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>
+   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>
+   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>
+   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>
+   <w:UseFELayout></w:UseFELayout>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"></m:mathFont>
+   <m:brkBin m:val="before"></m:brkBin>
+   <m:brkBinSub m:val="&#45;-"></m:brkBinSub>
+   <m:smallFrac m:val="off"></m:smallFrac>
+   <m:dispDef></m:dispDef>
+   <m:lMargin m:val="0"></m:lMargin>
+   <m:rMargin m:val="0"></m:rMargin>
+   <m:defJc m:val="centerGroup"></m:defJc>
+   <m:wrapIndent m:val="1440"></m:wrapIndent>
+   <m:intLim m:val="subSup"></m:intLim>
+   <m:naryLim m:val="undOvr"></m:naryLim>
+  </m:mathPr></w:WordDocument>
+<![endif]--><!--[if gte mso 9]>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"></w:LsdException>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"></w:LsdException>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"></w:LsdException>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"></w:LsdException>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"></w:LsdException>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"></w:LsdException>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"></w:LsdException>
+ </w:LatentStyles>
+<![endif]--><!--[if gte mso 10]>
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Звичайна таблиця";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+
+<![endif]--></p>
+				</div>
+			</div>
+			<div class="row max-width">
+				<div style="float:left; margin-left: 15px;"><div class="fb-like" data-href="https://technolex.com/ru/articles/smartcat-survey.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></div>
+				<!--<div style="float:left; margin-left: 15px;"><div id="vk_like"></div>
+<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "mini"});
+</script></div>-->
+			</div>
+		</div>
+	</div><!-- Конец Статья -->
+	<!-- Другие статьи -->
+	<div class="latest_news">
+		<div class="container">
+			<h2>Другие cтатьи</h2>
+			<div class="row">
+				<div class="col-xs-4">
+<div class="news_img">
+<a href="https://technolex.com/ru/articles/how-to-guarantee-you-flunk-a-translation-test.html"><img src="assets/images/new/newsandarticles/New_banners/How-to-guarantee-you-flunk-a-translation-test.jpg" alt=""></a>
+<div class="bg_line_thick"></div>
+</div>
+<div class="latest_news_container">
+<h3><a href="https://technolex.com/ru/articles/how-to-guarantee-you-flunk-a-translation-test.html">Как гарантированно завалить<br>тест на перевод</a></h3>
+<span>26.11.2018</span>
+Если вы взялись пройти переводческий тест, вот вам несколько вредных советов редактора, который постоянно проверяет тестовые переводы претендентов.
+</div>
+</div><div class="col-xs-4">
+<div class="news_img">
+<a href="https://technolex.com/ru/articles/translation-quality.html"><img src="assets/images/new/newsandarticles/New_banners/25.09.2018.jpg" alt=""></a>
+<div class="bg_line_thick"></div>
+</div>
+<div class="latest_news_container">
+<h3><a href="https://technolex.com/ru/articles/translation-quality.html">Качество перевода:<br>как не заблудиться заказчику</a></h3>
+<span>14.01.2016</span>
+В этой статье мы рассмотрим, как выглядит обеспечение качества переводческих услуг с позиции клиента.
+</div>
+</div><div class="col-xs-4">
+<div class="news_img">
+<a href="https://technolex.com/ru/articles/development-and-implementation-of-quality-management-systems-in-translation-agencies.html"><img src="assets/images/new/C%D1%85%D0%B5%D0%BC%D0%B0.png" alt=""></a>
+<div class="bg_line_thick"></div>
+</div>
+<div class="latest_news_container">
+<h3><a href="https://technolex.com/ru/articles/development-and-implementation-of-quality-management-systems-in-translation-agencies.html">Разработка и внедрение систем управления качеством в бюро переводов</a></h3>
+<span>13.03.2015</span>
+В нашей компании процессы контроля качества разделены на 2 уровня:
+1. Совокупность действий в рамках проекта, которые необходимо выполнить, чтобы обеспечить качество работы, требуемое заказчиком. С этими процессами все хорошо знакомы.
+2. Внутренний процесс оценки качества работ, который используется для обучения переводчиков и повышения их квалификации, а также применяется в системах мотивации, предназначенных для улучшения качества.
+
+</div>
+</div>
+			</div>
+		</div>
+	</div><!-- Конец статьи -->
+	
+	<!-- Подписка -->
+<div class="subscribe">
+	<div class="bg_line_thick"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-5 col-md-4 subscribe_title">
+				<h2>БУДЬТЕ В КУРСЕ</h2>
+				<p>Подпишитесь на рассылку</p>
+			</div>
+			<div class="col-xs-12 col-sm-7 col-md-8 form_container">
+				<form enctype="multipart/form-data" id="signUp" method="post">
+					<input type="hidden" name="sign_mail" value="signup forms">
+					<label style="display:none;">Дата:<input type="text" name="date" value=""></label>
+					<div class="input_error"><input id="inptSignUp" type="text" name="your_mail" placeholder="E-mail"></div>
+					<button type="submit" name="submit" class="btn btn-default red-btn hvr-sweep-to-right-red" href="#" role="button" onclick="ga('send', 'event', 'pop up', 'подписаться на рассылку Обзор Smartcat ру', '[https://technolex.com/ru/news.html]')">ПОДПИСАТЬСЯ<div class="red-btn-lb"></div><div class="red-btn-rb"></div></button>		
+				</form>	
+			</div>
+		</div>
+	</div>
+</div><!-- Конец Подпискa -->
+
+	
+	<!-- Футер -->
+<div class="footer">
+    <div class="container">
+        <div class="row table_disp">
+            <div class="col-lg-3 col-md-3 col-xs-12 table_cell_disp footer_logo">
+                <a class="navbar-brand" href="https://technolex.com/ru/"><img class="lazy" data-original="/assets/templates/template/img/logo.svg" alt="logo"></a>
+            </div>
+			<div class="col-lg-3 col-md-3 col-xs-12 table_cell_disp footer_tagline1" style="margin-top: 10px;">
+                <p>Высококачественные переводы <br>для самых требовательных клиентов</p>
+            </div>
+            <!--div class="col-xs-4 table_cell_disp text-center ata-container">
+                <p>Участник</p>
+                <img class="lazy" data-original="/assets/templates/template/img/gala-logo.png" alt="gala-label">
+            </div>
+            <div class="col-xs-4 table_cell_disp text-center ata-container">
+                <img class="lazy" data-original="/assets/templates/template/img/emblems-logo.png" alt="emblems-label">
+            </div>
+			<div class="col-xs-12 col-lg-3 col-md-3 table_cell_disp text-center" style="margin: 20px auto;">
+                <img class="lazy" data-original="/assets/templates/template/img/elia.png" alt="top-label">
+            </div>
+            <div class="col-xs-12 col-lg-3 col-md-3 table_cell_disp text-center" style="margin: 20px auto;">
+                <img class="lazy" data-original="/assets/templates/template/img/top_ru.png" alt="top-label">
+            </div-->
+            <div class="col-lg-3 col-md-3 col-xs-12 evergreen table_cell_disp">
+				<a class="copyright" style="margin: auto;float:none;" href="http://evergreen.com.ua/ru/service/copyright.html" title="Разработка и поддержка сайта" rel="nofollow" target="_blank">
+	<img class="lazy" data-original="/assets/templates/template/img/evergreen_logo_ru.png" alt="Evergreen - Development & Support">
+</a>
+            </div>
+        </div>
+        <div class="copy-txt">
+            © Все права защищены. Любые материалы, опубликованные на этом сайте, являются интеллектуальной собственностью компании Technolex Translation Studio. При любом их использовании, в том числе полном или частичном копировании, адаптации или цитировании, распространении в социальных сетях и т. д. ссылка на страницу с оригиналом статьи на этом сайте обязательна.
+        </div>
+		<div style="margin-top: 10px;">
+	<a style="display: block; margin-top: 10px; font-size: 14px; color: #939598;" href="https://technolex.com/ru/privacy-policy.html">
+        Privacy Policy
+	</a>
+</div>
+    </div>
+</div><!--Конец Футер -->
+
+<div id="thank-resume" class="wow pulse thank_modal">
+    <div class="close_btn"><img class="lazy" data-original="/assets/templates/template/img/close-btn.png" alt=""></div>
+    <h3>Спасибо!</h3><p>Мы получили ваше резюме.</p><p>Как только мы его изучим, мы свяжемся с вами.</p>
+</div>
+
+<div id="thank-message" class="wow pulse thank_modal">
+    <div class="close_btn"><img src="/assets/templates/template/img/close-btn.png" alt=""></div>
+    <h3>Спасибо!</h3><p>Мы получили ваше сообщение.</p><p>Как только мы его изучим, мы свяжемся с вами.</p><br><p>В рабочее время мы обычно отвечаем <br>в течение часа.</p>
+</div>
+<div id="signup-message" class="wow pulse thank_modal">
+    <div class="close_btn"><img class="lazy" data-original="/assets/templates/template/img/close-btn.png" alt=""></div>
+    <h3>Спасибо!</h3><br><p>Вы успешно подписаны!</p>
+</div>
+<div id="send-resume" class="wow pulse thank_modal contacts">
+    <div class="close_btn"><img class="lazy" data-original="assets/templates/template/img/close-btn.png" alt="" /></div>
+    <div class="row">
+        <div class="col-xs-12">
+            <form enctype="multipart/form-data" id="send-cv-form" method="post" novalidate="novalidate">
+                <div class="row">
+                    <div class="col-sm-4 xs-mb-20">
+                        <label style="display:none;">Дата:<input type="text" name="date" value=""></label>
+                        <input type="text" name="your_name" placeholder="Имя">
+                        <input type="hidden" name="cv_form">
+                    </div>
+                    <div class="col-sm-4 xs-mb-20">
+                        <input type="text" name="your_surname" placeholder="Фамилия">
+                    </div>
+                    <div class="col-sm-4">
+                        <input id="cv_mail" type="text" name="your_mail" placeholder="E-mail">
+                    </div>
+                </div>
+                <p class="form-msg">Сообщение</p>
+                <textarea name="leave_message" rows="11"></textarea>
+                <div class="add-file">
+                    <div>+ Прикрепить файл</div>
+                    <input type="file" name="attachment">
+                </div>
+                <div class="row answer">
+                    <div class="col-xs-7">
+                        <p>Мы внимательно изучим ваше резюме <br>и свяжемся с вами в ближайшее время</p>
+
+                    </div>
+                    <div class="col-xs-5">
+                        <button type="submit" class="btn btn-default red-btn hvr-sweep-to-right-red">Отправить<div class="red-btn-lb"></div><div class="red-btn-rb"></div></button>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="order_overlay"></div>
+
+<link rel="stylesheet" href="/assets/blog/blog.css" />
+<script src="/assets/blog/js/jquery.selectric.min.js"></script>
+<script>
+  //Selectrick
+  $('.blog-sorting select').selectric({
+    onChange: function() {   }
+  });
+</script>
+
+<!--<link rel="stylesheet" href="/assets/templates/template/css/animate.css" />
+<link rel="stylesheet" href="/assets/templates/template/css/jquery-ui.css" /> -->
+<link rel="stylesheet" href="/assets/templates/template/css/plugins.css?new=1" />
+
+<!--<script src="/assets/templates/template/js/jquery.lazyload.min.js"></script>
+<script src="/assets/templates/template/js/bootstrap2.min.js"></script>
+<script src="/assets/templates/template/js/jquery.validate.js"></script>
+<script src="/assets/templates/template/js/jquery-ui-datepicker.js"></script>
+<script src="/assets/templates/template/js/forms.js"></script>
+<script src="/assets/templates/template/js/jquery.maskedinput.min.js"></script>
+<script src="/assets/templates/template/js/topmenu.js"></script>
+<script src="/assets/templates/template/js/wow.min.js"></script>-->
+<script src="/assets/templates/template/js/plugins.js?new=1"></script>
+<script>
+    new WOW().init();
+</script>
+
+<script type="text/javascript">
+    //Lazy load init
+function isElementVisible(elementToBeChecked)
+    {
+        var TopView = $(window).scrollTop();
+        var BotView = TopView + $(window).height();
+        var TopElement = $(elementToBeChecked).offset().top;
+        var BotElement = TopElement + $(elementToBeChecked).height();
+        return ((BotElement <= BotView) && (TopElement >= TopView));
+    }
+
+$(function() {
+
+    $("img.lazy").lazyload();
+
+    $("img.lazy").lazyload({
+            event : "sporty"
+        });
+    });
+
+$(window).scroll(function () {
+    if ( $( ".trust_us" ).length ) {
+        isOnView = isElementVisible(".trust_us");
+        // .request_service_parallax
+    }else{
+        isOnView = isElementVisible(".elia-container");
+    }
+    if(isOnView){
+        $("img.lazy").trigger("sporty");
+    }
+});
+    //Lazy load init />
+</script>
+
+<script>
+    //jQuery validate
+	
+	jQuery.validator.addMethod('filesize', function(value, element, param) {
+		// param = size (in bytes) 
+    // element = element to validate (<input>)
+    // value = value of the element (file name)
+    return this.optional(element) || (element.files[0].size <= param) 
+    }, "file size must less than 5MB");
+
+    jQuery.validator.addMethod("digits", function(value, element) {
+        return this.optional(element) || /^[-+() 0-9]{1,20}$/.test(value);
+    }, "Используйте следующий формат ввода<br>+38 (ххх)ххххххх");
+
+    $.validator.addMethod("extension", function(value, element, param) {
+        param = typeof param === "string" ? param.replace(/,/g, "|") : "png|jpe?g|gif";
+        return this.optional(element) || value.match(new RegExp(".(" + param + ")$", "i"));
+    }, $.validator.format("Допустимые расширения файла - doc, docx, pdf"));
+
+	
+	
+	$.validator.addMethod("regularemail", function (value, element) {
+        if ($(element).val() != '') {
+            var re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            return re.test($(element).val());
+
+        }
+        return true;
+    });
+	
+	
+    function initFormValidate(id){
+        $(id).validate({
+            rules: {
+                // simple rule, converted to {required:true}
+                your_name: {
+                    required: true,
+                    minlength: 3
+                },
+                your_mail: {
+                    required: true,
+                    email: true
+                },
+                your_telephone: {
+                    digits:true,
+                    required: true,
+                    minlength: 8
+                },
+                //your_surname: {
+                //required: true,
+                //minlength: 3
+                //},
+                //your_company: {
+                // minlength: 3
+                //},
+                //leave_message: {
+                //required: true,
+                //minlength: 3
+                //},
+                //deadline: {
+                //required: true
+                //},
+                attachment: {
+                    extension: "doc|docx|pdf"
+                }
+            },
+
+            messages: {
+                your_name: {
+                    required: "Введите ваше имя",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                your_mail: {
+                    required: "Введите электронный адрес",
+                    email: "Похоже, что email введен с ошибкой"
+                },
+                your_telephone: {
+                    required: "Введите номер телефона",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                //your_surname: {
+                //required: "Введите вашу фамилию",
+                //minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                //},
+                //your_company: {
+                //minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                //},
+                //leave_message: {
+                //required: "Введите сообщение",
+                //minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                //},
+                //deadline: {
+                //required: "Введите дату выполнения работы"
+                //},
+                attachment: {
+                    extension: "Допустимые расширения файла - doc, docx, pdf"
+                }
+            },
+            submitHandler: function(form) { //Срабатывает при валидной форме
+                //alert('Срабатывает при валидной форме');
+                form.submit();
+
+            }
+
+        });
+    }
+
+    $(function(){
+        initFormValidate("#order-form-validate");
+    });
+
+
+    function initFormValidateCV(id){
+        $(id).validate({
+            rules: {
+                // simple rule, converted to {required:true}
+                your_name: {
+                    required: true,
+                    minlength: 3
+                },
+                your_mail: {
+                    required: true,
+                    email: true
+                },
+                your_surname: {
+                    required: true,
+                    minlength: 3
+                },
+                leave_message: {
+                    required: true,
+                    minlength: 3
+                },
+                attachment: {
+                    required: true,
+                    extension: "doc|docx|pdf"
+                }
+            },
+
+            messages: {
+                your_name: {
+                    required: "Введите ваше имя",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                your_mail: {
+                    required: "Введите электронный адрес",
+                    email: "Похоже, что email введен с ошибкой"
+                },
+                your_surname: {
+                    required: "Введите вашу фамилию",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                leave_message: {
+                    required: "Введите сообщение",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                attachment: {
+                    required: "Вложите Ваше резюме",
+                    extension: "Допустимые расширения файла - doc, docx, pdf"
+                }
+            },
+            submitHandler: function(form) { //Срабатывает при валидной форме
+                //alert('Срабатывает при валидной форме');
+                form.submit();
+            }
+
+        });
+    }
+
+    $(function(){
+        initFormValidateCV("#send-cv-form");
+    });
+
+    function initFormValidateContacts(id){
+        $(id).validate({
+            rules: {
+                // simple rule, converted to {required:true}
+                your_name: {
+                    required: true,
+                    minlength: 3
+                },
+                your_mail: {
+                    required: true,
+                    email: true,
+                    regularemail: true
+                },
+                your_surname: {
+                    required: true,
+                    minlength: 3
+                },
+                leave_message: {
+                    required: true,
+                    minlength: 3
+                },
+                attachment: {
+                    extension: "doc|docx|rtf|txt|xls|xlsx|ppt|ptx|bmp|png|tif|tiff|jpeg|jpg|7z|gz|gzip|rar|zip|pdf",
+					filesize: 10485760 //10485760
+                },
+                your_company: {
+                    minlength: 3
+                }
+            },
+
+            messages: {
+                your_name: {
+                    required: "Введите ваше имя",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                your_mail: {
+                    required: "Введите электронный адрес",
+                    email: "Похоже, что email введен с ошибкой",
+                    regularemail: "Похоже, что email введен с ошибкой"
+                },
+                your_surname: {
+                    required: "Введите вашу фамилию",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                leave_message: {
+                    required: "Введите сообщение",
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                your_company: {
+                    minlength: jQuery.validator.format("Минимальная длина {0} символов!")
+                },
+                attachment: {
+                    extension: "Допустимые расширения файла - doc, docx, rtf, txt, xls, xlsx, ppt, ptx, bmp, png, tif, tiff, jpg, jpeg, 7z, gz, gzip, rar, zip",
+					filesize: "Максимально допустимый размер файла 10 MB"
+                }
+            },
+            submitHandler: function(form) { //Срабатывает при валидной форме
+                //alert('Срабатывает при валидной форме');
+                form.submit();
+            }
+
+        });
+    }
+
+
+    $(function(){
+        //Форма контакта
+        initFormValidateContacts("#contactUs");
+    });
+
+
+    //Фалидация и паттерн поля формы "Телефон"
+    $('.order .order-form input[name="your_telephone"]').mask('+99 (999) 99-99-999',{placeholder:'+   (   )   -  -   '});
+
+
+    $("input[name='attachment']").change(function() {
+        var fileName = $(this).val().replace(/^.*[\\/]/, '')
+        if ( $('.filename').length > 0 ){
+            $('.filename').text(fileName);
+        }else{
+            $(this).after('<br><span class="filename">' + fileName + '</span>');
+        }
+    });
+
+    //Форма Подписки
+    function initFormValidateSU(id){
+        $(id).validate({
+            rules: {
+                // simple rule, converted to {required:true}
+                your_mail: {
+                    required: true,
+                    email: true,
+					regularemail: true
+                },
+            },
+
+            messages: {
+                your_mail: {
+                    required: "Введите электронный адрес",
+                    email: "Похоже, что email введен с ошибкой",
+					regularemail: "Похоже, что email введен с ошибкой"
+                },
+            },
+            submitHandler: function(form) { //Срабатывает при валидной форме
+                //alert('Срабатывает при валидной форме');
+                form.submit();
+            }
+
+        });
+    }
+
+    $(function(){
+	initFormValidateSU("#signUp");
+		
+	$('#signUpBlog').validate({
+		rules: {
+			// simple rule, converted to {required:true}
+			your_mail: {
+				required: true,
+				email: true,
+				regularemail: true
+			},
+		},
+
+		messages: {
+			your_mail: {
+				required: "Введите электронный адрес",
+				email: "Похоже, что email введен с ошибкой",
+				regularemail: "Похоже, что email введен с ошибкой"				
+			},
+		},
+		submitHandler: function(form, e) { //Срабатывает при валидной форме
+			//alert('Срабатывает при валидной форме');
+						
+			e.preventDefault()
+			let email = $('#signUpBlog').find('#inptSignUp').val()			
+			let lang = $('input[name=lang]').val()
+			$.ajax({
+				type: "POST",
+				url: "/ajax/subscribe.html",
+				data: { "email": email , "lang": lang},			
+				success: function(data) {
+					if(typeof(data.status) == "undefined"){
+						$("#order_overlay").fadeIn(750);
+						$("#signup-message").css('visibility','visible').hide().fadeIn('750');
+						form.reset();			
+					}else{
+						$("#order_overlay").fadeIn(750);
+						$("#signup-message h3").text("Ошибка!");
+						$("#signup-message p").text("email введен с ошибкой");
+						$("#signup-message").css('visibility','visible').hide().fadeIn('750');
+						form.reset();
+					}
+				},
+			});
+				
+		}
+	});
+});
+
+    //Pop-ups features
+
+    $('#send_cv').click(function(){
+        $('#send-resume').css({'visibility' : 'visible', 'display' : 'block'});
+        $('#order_overlay').css('display','block');
+    });
+
+    $('.close_btn').click(function(){
+        $(this).parent().css({'visibility' : 'hidden', 'display' : 'none'});
+        $('#order_overlay').css('display','none');
+    });
+
+    $(document).keyup(function(e) {
+        if (e.keyCode == 27) {
+            $('.close_btn').trigger('click');
+        }
+    });
+
+    $('#order_overlay').click(function(){
+        $('.close_btn').trigger('click');
+    });
+
+
+    //jQuery datepicker
+
+    var date_args = {"dateFormat":"yy.mm.dd","changeMonth":true,"changeYear":true};
+    jQuery.datepicker.regional['ru'] = {
+        closeText: 'Закрыть',
+        prevText: '&#x3c;Пред',
+        nextText: 'След&#x3e;',
+        currentText: 'Сегодня',
+        monthNames: ['Январь','Февраль','Март','Апрель','Май','Июнь',
+            'Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],
+        monthNamesShort: ['Янв','Фев','Мар','Апр','Май','Июн',
+            'Июл','Авг','Сен','Окт','Ноя','Дек'],
+        dayNames: ['воскресенье','понедельник','вторник','среда','четверг','пятница','суббота'],
+        dayNamesShort: ['вск','пнд','втр','срд','чтв','птн','сбт'],
+        dayNamesMin: ['Вс','Пн','Вт','Ср','Чт','Пт','Сб'],
+        dateFormat: 'dd.mm.yyyy',
+        firstDay: 1,
+        isRTL: false
+    };
+
+    var date_args = {"dateFormat":"yy.mm.dd","changeMonth":true,"changeYear":true};
+    jQuery.datepicker.regional['ua'] = {
+        closeText: 'Закрыты',
+        prevText: '&#x3c;Попер',
+        nextText: 'Наст&#x3e;',
+        currentText: 'Сьогодні',
+        monthNames: ['Січень','Лютий','Березень','Квітень','Травень','Червень',
+            'Липень','Серпень','Вересень','Жовтень','Листопад','Грудень'],
+        monthNamesShort: ['Січ','Лют','Бер','Кві','Тра','Чер',
+            'Лип','Сер','Вер','Жов','Лис','Гру'],
+        dayNames: ['неділя','понеділок','вівторок','середа','четвер','п\'ятниця','субота'],
+        dayNamesShort: ['ндл','пнд','втр','срд','чтв','птн','сбт'],
+        dayNamesMin: ['Нд','Пн','Вт','Ср','Чт','Пт','Сб'],
+        dateFormat: 'dd.mm.yyyy',
+        firstDay: 1,
+        isRTL: false
+    };
+
+    $( "#datepicker" ).datepicker(date_args);
+
+
+    //Language select options
+
+    $('#lan_1 option').each(function(){
+        lang_1 = $(this).attr('name');
+        lang_2 = $('#lan_2 option:selected').attr('name');
+        if( lang_1 == lang_2 ){
+            $(this).css('display','none');
+        }else{
+            $(this).css('display','block');
+        }
+    });
+
+    $('#lan_2 option').each(function(){
+        lang_1 = $(this).attr('name');
+        lang_2 = $('#lan_1 option:selected').attr('name');
+        if( lang_1 == lang_2 ){
+            $(this).css('display','none');
+        }else{
+            $(this).css('display','block');
+        }
+    });
+
+    $('#lan_1, #lan_2').change(function(){
+        $('#lan_1 option').each(function(){
+            lang_1 = $(this).attr('name');
+            lang_2 = $('#lan_2 option:selected').attr('name');
+            if( lang_1 == lang_2 ){
+                $(this).css('display','none');
+            }else{
+                $(this).css('display','block');
+            }
+        });
+
+        $('#lan_2 option').each(function(){
+            lang_1 = $(this).attr('name');
+            lang_2 = $('#lan_1 option:selected').attr('name');
+            if( lang_1 == lang_2 ){
+                $(this).css('display','none');
+            }else{
+                $(this).css('display','block');
+            }
+        });
+    });
+
+    $('.order .order-form input[name="your_name"]').focus();
+
+    //Ringostat translation
+    setInterval(function(){
+        if ( $('#rngst_modalDialog').length > 0 && ! $('#rngst_modalDialog').hasClass('translated') ){
+            console.log($('#rngst_modalDialog').length);
+            $('.rngst_title_text').text('Хотите, мы вам перезвоним?');
+            $('.rngst_before_text').text('Введите ваш номер телефона и мы свяжемся за 30 секунд!');
+            $('.rngst_btn').attr('value', 'Жду звонка!');
+            $('.rngst_counter_text').text('Соединение с оператором...');
+            $('.rngst_after_text').text('Мы не успели? Извините, оператор свяжется с вами в ближайшее время.');
+            $('.rngst_error_text').text('Вероятно, вы указали недействительный номер.');
+            $('#rngst_modalDialog').addClass('translated');
+        }
+    },100);
+
+</script>
+
+<script>
+	$(function () {
+		$('[data-toggle="tooltip"]').tooltip()
+	})
+	
+	function getSelectionHtml() {
+		var html = "";
+		if (typeof window.getSelection != "undefined") {
+			var sel = window.getSelection();
+			if (sel.rangeCount) {
+				var container = document.createElement("div");
+				for (var i = 0, len = sel.rangeCount; i < len; ++i) {
+					container.appendChild(sel.getRangeAt(i).cloneContents());
+				}
+				html = container.innerHTML;
+			}
+		} else if (typeof document.selection != "undefined") {
+			if (document.selection.type == "Text") {
+				html = document.selection.createRange().htmlText;
+			}
+		}
+			return html;
+	}
+	
+	function addLink() {
+		var body_element = document.getElementsByTagName('body')[0];
+		var selection;
+		selection = getSelectionHtml();
+		//alert(selection);
+		var pagelink = "&nbsp;&copy;"+context_head+":&nbsp;<a href='"+document.location.href+"'>"+document.location.href+"</a>"; // Вы можете изменить текст в этой строчке
+		var copytext = selection + pagelink;
+		var newdiv = document.createElement('div');
+		newdiv.style.position='absolute';
+		newdiv.style.left='-99999px';
+		body_element.appendChild(newdiv);
+		newdiv.innerHTML = copytext;
+		window.getSelection().selectAllChildren(newdiv);
+		window.setTimeout(function() {
+			body_element.removeChild(newdiv);
+		},0);
+	}
+	window.onload = function() {
+		if(window.document.body.attachEvent)
+			window.document.body.attachEvent("oncopy", addLink);
+		else {
+			
+			if(document.attachEvent)document.attachEvent("oncopy", addLink);
+			else {
+				if(window.attachEvent) window.attachEvent("oncopy", addLink);
+				//else if (document.body.addEventListener)document.body.addEventListener("copy", addLink,true);
+				
+			}
+		}
+	};
+	
+	var context_head=' Авторские права принадлежат компании Technolex Translation Studio';
+	document.oncopy = addLink;
+	
+</script>
+
+	
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!--<script type='text/javascript'>
+(function(){ var widget_id = 'cwnPgGAIcj';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>-->
+<!-- {/literal} END JIVOSITE CODE -->	
+</body>
+</html>
